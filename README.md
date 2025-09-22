@@ -18,3 +18,5 @@ Data Cleaning Steps with power query
 Data Modeling – Loading data into Power Pivot and creating DAX measures.
 Analysis – Prevalence of risk factors, correlations between numerical values and risk, subgroup analysis (sex, stress, lifestyle).
 Visualization – Building an interactive dashboard with KPIs, bar charts, and slicers for filtering.
+![image alt](https://github.com/FATIMAZZAHRALAHMIDI/Heart-attack-risk-analysis-/blob/35439f47cc48308fed92f1a855d6bfd2e90aa080/Screenshot%202025-09-22%20202915.png)
+
