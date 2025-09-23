@@ -1,5 +1,5 @@
 # Heart-attack-risk-analysis-
-The objective of this project is to analyze patient health and lifestyle data to identify key factors associated with heart attack risk. By leveraging Excel, Power Pivot, and DAX, the project aims to: Calculate and visualize the prevalence of heart attack risk in different patient subgroups. Examine the impact of clinical indicators (cholesterol, triglycerides, BMI, blood pressure, heart rate) on heart attack risk. Assess the role of lifestyle factors (smoking, alcohol consumption, diet, stress, sleep, physical activity) in the variation of risk. Develop an interactive dashboard that allows users to filter by demographic and clinical variables to explore patterns and insights.the project aims to:
+The objective of this project is to analyze patient health and lifestyle data to identify key factors associated with heart attack risk. By leveraging Excel, Power Pivot, and DAX, the project aims to:
 Calculate and visualize the prevalence of heart attack risk in different patient subgroups.
 Examine the impact of clinical indicators (cholesterol, triglycerides, BMI, blood pressure, heart rate) on heart attack risk.
 Assess the role of lifestyle factors (smoking, alcohol consumption, diet, stress, sleep, physical activity) in the variation of risk.
